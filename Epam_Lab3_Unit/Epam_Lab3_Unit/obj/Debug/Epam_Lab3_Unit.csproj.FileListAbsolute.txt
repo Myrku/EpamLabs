@@ -1,0 +1,6 @@
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\bin\Debug\Epam_Lab3_Unit.dll
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\bin\Debug\Epam_Lab3_Unit.pdb
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\obj\Debug\Epam_Lab3_Unit.csproj.CoreCompileInputs.cache
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\obj\Debug\Epam_Lab3_Unit.dll
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\obj\Debug\Epam_Lab3_Unit.pdb
+E:\Универ\3 курс\1\Тестирование ПО\Lab3\Epam_Lab3_Unit\Epam_Lab3_Unit\obj\Debug\Epam_Lab3_Unit.csprojAssemblyReference.cache

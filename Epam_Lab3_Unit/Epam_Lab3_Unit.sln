@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam_Lab3_Unit", "Epam_Lab3_Unit\Epam_Lab3_Unit.csproj", "{5B31D4C2-D32E-477E-A07A-48587140C9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Tests", "Triangle_Tests\Triangle_Tests.csproj", "{4793B0C8-E475-4103-BFCA-8E23610D6C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B31D4C2-D32E-477E-A07A-48587140C9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B31D4C2-D32E-477E-A07A-48587140C9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B31D4C2-D32E-477E-A07A-48587140C9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B31D4C2-D32E-477E-A07A-48587140C9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4793B0C8-E475-4103-BFCA-8E23610D6C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4793B0C8-E475-4103-BFCA-8E23610D6C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4793B0C8-E475-4103-BFCA-8E23610D6C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4793B0C8-E475-4103-BFCA-8E23610D6C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE6250F-5601-4205-88FD-A4228D9021EC}
+	EndGlobalSection
+EndGlobal
