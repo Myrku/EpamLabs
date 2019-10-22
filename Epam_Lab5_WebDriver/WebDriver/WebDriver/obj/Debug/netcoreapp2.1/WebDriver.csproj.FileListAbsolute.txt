@@ -1,0 +1,14 @@
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\WebDriver.deps.json
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\WebDriver.runtimeconfig.json
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\WebDriver.runtimeconfig.dev.json
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\WebDriver.dll
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.csprojAssemblyReference.cache
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.csproj.CoreCompileInputs.cache
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.AssemblyInfoInputs.cache
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.AssemblyInfo.cs
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\bin\Debug\netcoreapp2.1\WebDriver.pdb
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.dll
+E:\Универ\3 курс\1\Тестирование ПО\Epam_Lab5_WebDriver\WebDriver\WebDriver\obj\Debug\netcoreapp2.1\WebDriver.pdb
