@@ -21,10 +21,9 @@ namespace Framework.Services
             }
         }
 
-                public static KeyValueConfigurationElement GetData(string key)
+        public static string GetData(string key)
         {
-            return ConfigFile.AppSettings.Settings[key];
-            
+            return ConfigFile.AppSettings.Settings[key]?.Value;
         }
 
 

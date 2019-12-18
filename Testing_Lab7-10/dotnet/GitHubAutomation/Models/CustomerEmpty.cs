@@ -15,7 +15,7 @@ namespace Framework.Models
         }
         string GetCustomerEmpty(string key)
         {
-            return CustomerInfoEmptyReader.GetData(key).Value;
+            return CustomerInfoEmptyReader.GetData(key);
         }
     }
 }

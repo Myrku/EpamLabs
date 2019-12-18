@@ -20,12 +20,10 @@ namespace Framework.Services
                 return ConfigurationManager.OpenMappedExeConfiguration(configeMap, ConfigurationUserLevel.None);
             }
         }
-
-        public static KeyValueConfigurationElement GetData(string key)
+       
+        public static string GetData(string key)
         {
-            return ConfigFile.AppSettings.Settings[key];
-
+            return ConfigFile.AppSettings.Settings[key]?.Value;
         }
-
     }
 }
