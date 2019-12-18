@@ -24,7 +24,7 @@ namespace Framework.Models
 
         string GetCustomer(string key)
         {
-            return CustomerInfoReader.GetData(key);
+            return CustomerInfoReader.GetData(key).Value;
         }
 
     }

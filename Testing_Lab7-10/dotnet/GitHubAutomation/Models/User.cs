@@ -19,7 +19,7 @@ namespace Framework.Models
         }
         string GetUser(string key)
         {
-            return TestDataReader.GetData(key);
+            return TestDataReader.GetData(key).Value;
         }
 
     }
