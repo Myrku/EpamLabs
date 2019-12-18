@@ -43,7 +43,7 @@ namespace Framework.Models
 
         string GetCard(string key)
         {
-            return CardReader.GetData(key);
+            return CardReader.GetData(key).Value;
         }
 
     }
